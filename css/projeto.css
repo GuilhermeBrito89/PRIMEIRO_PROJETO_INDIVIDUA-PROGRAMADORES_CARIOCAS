@@ -1,0 +1,111 @@
+.top{
+    margin-top: 200px;
+}
+
+#fotodeperfil{
+    width: 300px;
+    height: 250px;
+    border-radius: 400px 400px 400px 400px;
+    border:rgb(234, 178, 7) solid 10px;
+    
+    
+}
+
+#frasemotivacional{
+    font-family:'Antonio', sans-serif; font-size:50px; color:pink;
+background-color: #2A053D;}
+ 
+    #nome{
+    margin-top: 50px;
+    font-family: 'Antonio', sans-serif;
+    font-family: 'Nabla', cursive; font-size:75px;
+    background-color:#5D0477;
+    width: 1200px;
+    height: fit-content;
+}
+ 
+    .fundonome{
+    display: flex;
+    justify-content: space-between;
+    }
+ 
+ 
+    .paragrafo25px{
+    color:white;
+    font-size: 25px;
+    margin-left: 30%;
+    margin-right: 30%;
+    }
+     
+    #hobbies{
+       
+            font-family:'Antonio', sans-serif; font-size:50px; color:pink;
+            background-color: #2A053D
+    }
+
+    #interesses{
+        font-family:'Antonio', sans-serif; font-size:50px; color:pink;
+        background-color: #2A053D
+    }
+     
+
+
+    body{
+    background-image: url(/IMG/5a7c5ebd095763fa75695e23180b0c63.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    text-align:center}
+     
+    .container{
+        width: 1000px;
+        display:flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+       
+    }
+    .conteudo{
+        width: 200px;
+        height: 200px;
+        align-items: center;
+        border: solid 5px;
+        color: rgb(234, 178, 7);
+        border-radius: 8px;
+    }
+
+    .contatosgui{
+        width: 100px;
+        height: 100px;
+        align-items: center;    
+        
+    }
+
+    .contatos{
+        width: 1000px;
+        display:flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        
+    }
+
+    #contatos{
+        font-family:'Antonio', sans-serif; font-size:50px; color:pink;
+        background-color: #2A053D
+    }
+     
+    .formulario{
+        margin-top: 80px;
+        border: solid 5px purple;
+        margin-left: 450px;
+        margin-right: 450px;
+        padding:20px;
+        padding-bottom: 50px;
+        background-color:pink 
+
+}
+
